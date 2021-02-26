@@ -1,6 +1,6 @@
-<!--### Chapter Information
-* Chapter Region
+### Chapter Information
+
 
 ### Social Links
 * [Meetup](#)
-* [Social Link](#)-->
+* [Social Link]
