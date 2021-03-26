@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Rio De Janeiro
-tags: example-tag
+tags: owasp-rj
 level: 0
 
 region: Latin America
