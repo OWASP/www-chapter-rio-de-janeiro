@@ -6,3 +6,4 @@
 * [Facebook](https://www.facebook.com/OwaspRJ)
 * [Twitter](https://twitter.com/owasprj)
 * [LinkedIn](https://www.linkedin.com/company/owasprj/)
+* [Youtube](https://www.youtube.com/channel/UCwqpYWTFF5dDbLaXJKsqU6w/featured)
