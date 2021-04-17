@@ -14,7 +14,7 @@ Check our activities at the bottom of the page. If you have any questions, pleas
 
 ## Participation
 
-The Open Web Application Security Project (OWASP) is a not-for-profit, worldwide organization focused on improving the security of application software. Our mission is to make application security visible, so that people and organizations can make informed decisions about true application security risks. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
+The Open Web Application Security Project (OWASP) is a not-for-profit, worldwide rganization focused on improving the security of application software. Our mission is to make application security visible, so that people and organizations can make informed decisions about true application security risks. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
 
 ## Activities
 
@@ -23,3 +23,6 @@ The Open Web Application Security Project (OWASP) is a not-for-profit, worldwide
 ### Past Activities
 
 - [Leader Chapter Meeting 2021-04-08](https://docs.google.com/document/d/1u3YMJrP3V-fkY0sl-1SuokX4Lw_iT9IMrMA_mkmGlWA/edit?usp=sharing)
+=======
+### Check our Upcoming Meetup Events:
+{% include chapter_events.html group=page.meetup-group %}
