@@ -35,3 +35,4 @@ Aqui temos a lista de atividades passadas do capítulo. Essa lista inclui as *Le
 - [Leader Chapter Meeting 2021-04-08](https://docs.google.com/document/d/1u3YMJrP3V-fkY0sl-1SuokX4Lw_iT9IMrMA_mkmGlWA/edit?usp=sharing)
 - [Leader Chapter Meeting 2021-04-10](https://docs.google.com/document/d/1eLmoCtclaXZIQ3qFNV3UK6u82eoTQFygCYj8Zz2JSKI/edit?usp=sharing)
 - [Leader Chapter Meeting 2021-04-17](https://docs.google.com/document/d/1BtWUdxo1p2LjjQSvgLFJF4yhVC403lo7J_kc_aj1JmQ/edit?usp=sharing)
+- [Leader Chapter Meeting 2021-04-24](https://docs.google.com/document/d/184VA1o-vdIO-3RfFC16a1jDvhcjbxSjoF_zJ36p-ZNU/edit?usp=sharing)
