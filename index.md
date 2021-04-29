@@ -24,7 +24,6 @@ Todos os nossos eventos são organizado na plataforma [Meetup](https://www.meetu
 
 Atualmente, estamos planejando encontros quinzenais com duração de uma hora para testar a viabilidade desse formato e ver o que melhor atende nossas necessidades. Todos esses encontros vão estar na plataforma do [Meetup](https://www.meetup.com/owasp-rio-de-janeiro/).
 
-- [Biweekly Meeting 2021-04-28 (19:30 GMT-03)](https://www.meetup.com/owasp-rio-de-janeiro/events/277626321/)
 - Biweekly Meeting 2021-05-12 (19:30 GMT-03) - *planejado*
 - Biweekly Meeting 2021-05-26 (19:30 GMT-03) - *planejado*
 
@@ -36,3 +35,4 @@ Aqui temos a lista de atividades passadas do capítulo. Essa lista inclui as *Le
 - [Leader Chapter Meeting 2021-04-10](https://docs.google.com/document/d/1eLmoCtclaXZIQ3qFNV3UK6u82eoTQFygCYj8Zz2JSKI/edit?usp=sharing)
 - [Leader Chapter Meeting 2021-04-17](https://docs.google.com/document/d/1BtWUdxo1p2LjjQSvgLFJF4yhVC403lo7J_kc_aj1JmQ/edit?usp=sharing)
 - [Leader Chapter Meeting 2021-04-24](https://docs.google.com/document/d/184VA1o-vdIO-3RfFC16a1jDvhcjbxSjoF_zJ36p-ZNU/edit?usp=sharing)
+- [Biweekly Meeting 2021-04-28 (19:30 GMT-03)](https://www.meetup.com/owasp-rio-de-janeiro/events/277626321/) [slides](https://docs.google.com/presentation/d/1aehKbkJMvHlQA4zFHLIjBQYEn3QT39a6LH8Q3i0bVLU/edit?usp=sharing)
