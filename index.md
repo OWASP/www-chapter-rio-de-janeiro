@@ -27,6 +27,8 @@ Atualmente, estamos planejando encontros quinzenais com duração de uma hora pa
 - Biweekly Meeting 2021-05-12 (19:30 GMT-03) - *planejado*
 - Biweekly Meeting 2021-05-26 (19:30 GMT-03) - *planejado*
 
+{% include chapter_events.html group=page.meetup-group %}
+
 ### Atividades Passadas
 
 Aqui temos a lista de atividades passadas do capítulo. Essa lista inclui as *Leader Chapter Meetings*, que são as reuniões onde organizamos os eventos quinzenais (essas reuniões ocorrem aos sábados, às 9hrs).
