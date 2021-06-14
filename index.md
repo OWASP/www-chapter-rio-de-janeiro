@@ -5,6 +5,8 @@ title: OWASP Rio De Janeiro
 tags: owasp-rj
 level: 0
 region: South America
+meetup-group: owasp-rio-de-janeiro
+
 ---
 ![enter image description here](/assets/images/OWASP-RJ-logo.png)
 
