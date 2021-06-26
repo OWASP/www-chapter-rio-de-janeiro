@@ -30,7 +30,7 @@ Atualmente, estamos planejando encontros quinzenais com duração de uma hora pa
 
 ### Atividades Passadas
 
-Aqui temos a lista de atividades passadas do capítulo. Essa lista inclui as *Leader Chapter Meetings*, que são as reuniões onde organizamos os eventos quinzenais (essas reuniões ocorrem aos sábados, às 9hrs). Se quiser participar dessas reunião, basta enviar um e-mail para os líderes do capítulo (os contatos estão no painal do lado direito da tela).
+Aqui temos a lista de atividades passadas do capítulo. Essa lista inclui as *Leader Chapter Meetings*, que são as reuniões onde organizamos os eventos quinzenais (essas reuniões ocorrem aos sábados, às 9hrs). Se quiser participar dessa reunião, basta enviar um e-mail para os líderes do capítulo (os contatos estão no painal do lado direito da tela).
 
 - [Leader Chapter Meeting 2021-04-08](https://docs.google.com/document/d/1u3YMJrP3V-fkY0sl-1SuokX4Lw_iT9IMrMA_mkmGlWA/edit)
 - [Leader Chapter Meeting 2021-04-10](https://docs.google.com/document/d/1eLmoCtclaXZIQ3qFNV3UK6u82eoTQFygCYj8Zz2JSKI/edit)
@@ -47,4 +47,6 @@ Aqui temos a lista de atividades passadas do capítulo. Essa lista inclui as *Le
 - [Leader Chapter Meeting 2021-06-05](https://docs.google.com/document/d/19EzwDsMogSQG2U2rOf_w9z0VtmflVvVMlHzVpvOFUnU/edit)
 - [Biweekly Meeting 2021-06-09 (19:30 GMT-03)](https://www.meetup.com/owasp-rio-de-janeiro/events/278641492/) [slides](https://docs.google.com/presentation/d/1rRawUPziRxwmTnKyJvEtq3YFqpO1pLD08TMNYZ1fooU/edit)
 - [Leader Chapter Meeting 2021-06-12](https://docs.google.com/document/d/1O92-xJK7MOFOe0CKiu130SRHbJFaSBajhCpnQ-B5u3c/edit)
-- [Biweekly Meeting 2021-06-23 (19:30 GMT-03)](https://www.meetup.com/owasp-rio-de-janeiro/events/278789540/)
+- [Leader Chapter Meeting 2021-06-19](https://docs.google.com/document/d/1F0F5pYjFKNU2es0Y13m1LpvG_rgH-MwiqWe_uVzTzIQ/edit)
+- [Biweekly Meeting 2021-06-23 (19:30 GMT-03)](https://www.meetup.com/owasp-rio-de-janeiro/events/278789540/) [slides](https://docs.google.com/presentation/d/1x6UUJVv_8Vd8oQfuqFwCv5-f-YcTMJyHAUni_FKJ6Lw/edit)
+- [Leader Chapter Meeting 2021-06-26](https://docs.google.com/document/d/1XXjLmJHThb_ICaxtfr2WWmONA-a4khvQGN8fnX5UVjo/edit)
