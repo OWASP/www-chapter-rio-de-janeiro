@@ -57,3 +57,4 @@ Aqui temos a lista de atividades passadas do capítulo. Essa lista inclui as *Le
 - [Leader Chapter Meeting 2021-08-21](https://docs.google.com/document/d/14y5de038iMYiFL-0rYwE89Rw27VSKohNOKmo0U5011c/edit)
 - [Leader Chapter Meeting 2021-09-18](https://docs.google.com/document/d/1Y4YKhc1CyGXO5mhXQi__qM46O-O3OvYrIx_k-1UgJ7g/edit)
 - [Monthly Meeting 2021-09-29 (19:30 GMT-03)](https://www.meetup.com/owasp-rio-de-janeiro/events/280255455/) [slides](https://docs.google.com/presentation/d/1kgYnbCN5-6XLQvi5Q50ZMelKrpMtrF3lv6YesEGFvLQ/edit) [video](https://youtu.be/Pz5iEkvXA1g)
+- [Monthly Meeting 2021-11-10 (18:30 GMT-03)](https://www.meetup.com/owasp-rio-de-janeiro/events/281947370/) [slides](https://drive.google.com/file/d/1HdsdkoiAME1ZWkK6rLeA_xvqQpKpMnEx/view?usp=sharing) [video](https://youtu.be/kApwjTESYic)
