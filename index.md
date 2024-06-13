@@ -9,7 +9,7 @@ country: Brazil
 meetup-group: 
 
 ---
-![enter image description here](/assets/images/OWASP-RJ-logo.png)
+![enter image description here](/assets/images/OWASP-RJ_Banner.png)
 
 Bem-vindo à página do Capítulo OWASP Rio de Janeiro.
 
