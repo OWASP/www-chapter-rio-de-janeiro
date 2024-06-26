@@ -12,11 +12,14 @@ meetup-group:
 <br>
 Seja bem-vindo à página do Capítulo OWASP Rio de Janeiro!
 <br>
+<br>
 
 ![enter image description here](/assets/images/OWASP-RJ_Banner.png)
 
 <br>
+<div style="text-align: justify">
 O Capítulo OWASP Rio de Janeiro se dedica a promover a conscientização, educação e colaboração na área de segurança de aplicações. Nosso objetivo é criar um ambiente onde profissionais e entusiastas de segurança cibernética possam se reunir, aprender e compartilhar conhecimentos e melhores práticas. Buscamos fortalecer a segurança de software através de eventos educativos, projetos comunitários e parcerias estratégicas, visando assim contribuir para um ecossistema digital mais seguro e resiliente.
+</div>
 
 ## Sobre a OWASP
 
