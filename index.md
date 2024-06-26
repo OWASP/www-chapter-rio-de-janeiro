@@ -9,23 +9,27 @@ country: Brazil
 meetup-group: 
 
 ---
+
+Seja bem-vindo à página do Capítulo OWASP Rio de Janeiro!
+
 ![enter image description here](/assets/images/OWASP-RJ_Banner.png)
 
-Bem-vindo à página do Capítulo OWASP Rio de Janeiro.
-
-Confira nossas atividades no final da página. Se você tiver alguma dúvida, basta nos enviar um e-mail.
+O Capítulo OWASP Rio de Janeiro se dedica a promover a conscientização, educação e colaboração na área de segurança de aplicações. Nosso objetivo é criar um ambiente onde profissionais e entusiastas de segurança cibernética possam se reunir, aprender e compartilhar conhecimentos e melhores práticas. Buscamos fortalecer a segurança de software através de eventos educativos, projetos comunitários e parcerias estratégicas, visando assim contribuir para um ecossistema digital mais seguro e resiliente.
 
 ## Sobre a OWASP
 
-A Open Worldwide Application Security Project (OWASP) é uma organização mundial sem fins lucrativos focada em melhorar a segurança de software. Nossa missão é tornar a segurança de software visível, para que as pessoas e organizações possam tomar decisões informadas sobre os verdadeiros riscos à segurança de software. Todos são livres para participar da OWASP e todos os nossos materiais estão disponíveis sob uma licença de software livre e aberta.
+A OWASP (Open Worldwide Application Security Project) é uma organização global sem fins lucrativos dedicada a melhorar a segurança de software. Fundada com a missão de tornar a segurança de software visível e acessível, a OWASP promove práticas de segurança através do desenvolvimento e divulgação de recursos, ferramentas e padrões abertos. Com uma comunidade vibrante de profissionais, acadêmicos e voluntários, a OWASP oferece um espaço para colaboração, pesquisa, educação e conscientização sobre os principais desafios de segurança enfrentados.
 
-## Sobre o capítulo
+## Participe do Capítulo OWASP Rio de Janeiro
 
-Todos os nossos eventos são organizado na plataforma [Meetup](https://www.meetup.com/owasp-rio-de-janeiro/) e ocorrem de forma online. Você pode se inscrever na plataforma para receber avisos de futuros encontros.
+- Participe de eventos dinâmicos com apresentações e workshops de especialistas em segurança de software.
+- Amplie suas habilidades e conhecimentos participando ativamente da nossa comunidade.
+- Conecte-se com profissionais da área e amplie sua rede de contatos na região.
+- Participe sem custos! Acesso livre aos nossos canais e eventos virtuais.
 
 ## Atividades
 
-Atualmente, estamos planejando encontros quinzenais com duração de uma hora para testar a viabilidade desse formato e ver o que melhor atende nossas necessidades. Todos esses encontros vão estar na plataforma do [Meetup](https://www.meetup.com/owasp-rio-de-janeiro/).
+EM breve iniciaremos nossos encontros na plataforma Meetup. Fique ligado!
 
 {% include chapter_events.html group=page.meetup-group %}
 
