@@ -1,6 +1,6 @@
 ---
 
-title: Agenda
+title: agenda
 displaytext: Agenda
 layout: null
 order: 1
