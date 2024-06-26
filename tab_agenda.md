@@ -10,10 +10,10 @@ tags: owasp-rj
 
 <h2>Programação</h2>
 
-<h4>OWASP RJ - Primeiro Meetup Virtual</h4>
+<h4>OWASP RJ - Meetup Virtual</h4>
 O capítulo OWASP RJ convida profissionais e entusiastas de segurança cibernética para participarem do nosso meetup virtual.<br>
 
-<b>Data:</b> Em breve<br>
-<b>Evento online<br>
-<b>Inscrições:</b> Em breve. <br>
+<b>Data: Em breve<br>
+Evento online<br>
+Inscrições: Em breve. <br>
 <br>
