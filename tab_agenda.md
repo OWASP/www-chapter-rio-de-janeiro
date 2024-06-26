@@ -5,7 +5,7 @@ displaytext: Agenda
 layout: null
 order: 1
 tab: true
-tags: chapter-rj
+tags: owasp-rj
 ---
 
 <h2>Programação</h2>
