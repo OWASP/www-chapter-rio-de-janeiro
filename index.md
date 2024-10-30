@@ -10,7 +10,7 @@ meetup-group:
 
 ---
 
-![enter image description here](/assets/images/OWASP-RJ_Banner.png)
+![Rio de Janeiro](/assets/images/OWASP-RJ_Banner.png)
 
 <br>
 <br>
