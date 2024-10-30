@@ -39,9 +39,12 @@ meetup-group:
 - Participe sem custos! Acesso livre aos nossos canais e eventos virtuais.
 
 <br>
-## Atividades
+
+## Atividades 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve iniciaremos nossos encontros na plataforma Meetup. Fique ligado!
+
 <br>
+
 {% include chapter_events.html group=page.meetup-group %}
 
