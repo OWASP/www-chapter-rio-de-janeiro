@@ -20,6 +20,7 @@ O capítulo <b>OWASP RJ</b>, em conjunto com os capítulos da <b>OWASP Latam</b>
 <b>Call for Papers:</b> Até <b>31 de agosto de 2025</b> através deste <a href="https://www.papercall.io/owasp-village-ekoparty2025" target="_blank">link</a>. <br>
 <br>
 <b>Inscrições:</b> O acesso ao village é liberado para todos os participantes da Ekoparty Security Conference. As inscrições para a Ekoparty podem ser feitas através desse <a href="https://entradas.ekoparty.org/" target="_blank">link</a>.
+
 <!--
 <h4>OWASP RJ - Meetup Virtual</h4>
 O capítulo OWASP RJ convida profissionais e entusiastas de segurança cibernética para participarem do nosso meetup virtual.<br>
