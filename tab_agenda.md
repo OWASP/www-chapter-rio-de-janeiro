@@ -13,7 +13,6 @@ tags: owasp-rj
 <h4>OWASP Village - Ekoparty Security Conference 2025</h4>
 O capítulo <b>OWASP RJ</b>, em conjunto com os capítulos da <b>OWASP Latam</b>, convida profissionais e entusiastas de segurança cibernética para participarem do <b>OWASP Village</b> que fará parte da programação da <b>Ekoparty Security Conference</b>.<br>
 <br>
-<br>
 <b>Data:</b> 22, 23 e 24 de outubro de 2025<br>
 <br>
 <b>Local:</b> Centro de Convenciones Buenos Aires - Av. Pres. Figueroa Alcorta 2099, C1112 Cdad. Autónoma de Buenos Aires, Argentina<br>
