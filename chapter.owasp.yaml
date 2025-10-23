@@ -1,0 +1,22 @@
+leaders:
+  - name: Rafael Soares Ferreira
+    email: rafael.sferreira@owasp.org
+  - name: Luiz Fernando Cerqueira Santos
+    email: fernando.cerqueira@owasp.org
+location:
+  country: Brazil
+  country_code: BR
+  region: State of Rio de Janeiro
+  city: Rio de Janeiro
+  latitude: -22.9110137
+  longitude: -43.2093727
+name: OWASP Rio De Janeiro
+repositories:
+  - name: www-chapter-rio-de-janeiro
+    url: https://github.com/OWASP/www-chapter-rio-de-janeiro
+    description: OWASP Foundation Web Repository
+tags:
+  - owasp-rj
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-rio-de-janeiro
